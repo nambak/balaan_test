@@ -1,0 +1,67 @@
+[
+  {
+    "sku": "19MC53-BLACK",
+    "price": "1500",
+    "url": "example.a.com"
+  },
+  {
+    "sku": "19MC53-BLACK",
+    "price": "1300",
+    "url": "example.b.com"
+  },
+  {
+    "sku": "30L165-129BLUE",
+    "price": "3300",
+    "url": "example.a.com"
+  },
+  {
+    "sku": "30L165-129BLUE",
+    "price": "1120",
+    "url": "example.d.com"
+  },
+  {
+    "sku": "30L165-129BLUE",
+    "price": "4300",
+    "url": "example.h.com"
+  },
+  {
+    "sku": "460085-QJJ121000",
+    "price": "5500",
+    "url": "example.f.com"
+  },
+  {
+    "sku": "460085-QJJ121000",
+    "price": "5000",
+    "url": "example.g.com"
+  },
+  {
+    "sku": "W2876L-790",
+    "price": "11100",
+    "url": "example.g.com"
+  },
+  {
+    "sku": "W2876L-790",
+    "price": "12100",
+    "url": "example.a.com"
+  },
+  {
+    "sku": "W2876L-790",
+    "price": "2100",
+    "url": "example.c.com"
+  },
+  {
+    "sku": "484237-Q5KSE1000",
+    "price": "12100",
+    "url": "example.a.com"
+  },
+  {
+    "sku": "484237-Q5KSE1000",
+    "price": "22100",
+    "url": "example.b.com"
+  },
+  {
+    "sku": "484237-Q5KSE1000",
+    "price": "20100",
+    "url": "example.b.com"
+  }
+]
